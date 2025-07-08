@@ -1,3 +1,6 @@
+  [![HitCount](https://hits.dwyl.com/anuragsingh010/anuragsingh010.svg?style=flat)](http://hits.dwyl.com/anuragsingh010/anuragsingh010)
+
+
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
