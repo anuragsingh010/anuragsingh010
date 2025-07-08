@@ -1,4 +1,4 @@
-  [![HitCount](https://hits.dwyl.com/anuragsingh010/anuragsingh010.svg?style=flat)](http://hits.dwyl.com/anuragsingh010/anuragsingh010)
+  [![HitCount](https://hits.dwyl.com/anuragsingh010/anuragsingh010.svg?style=flat-square)](http://hits.dwyl.com/anuragsingh010/anuragsingh010)
 
 
 <h1 align="center">Hi 👋, I'm Anurag</h1>
