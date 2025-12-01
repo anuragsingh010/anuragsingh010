@@ -44,7 +44,7 @@ AWS | Azure Fundamentals
 ## 🚀 Projects
 
 ### 🔹 QuickPDF Studio  
-**Live:** https://quickpdf-studio.vercel.app/PDF  
+**Live:** https://quickpdf-studio.vercel.app/  
 
 A fast and minimal PDF toolkit built using HTML, CSS and JavaScript.  
 Everything runs **locally in your browser** — no uploads, no tracking.
