@@ -1,94 +1,92 @@
-<!-- Profile Views Badge -->
-![Profile Views](https://komarev.com/ghpvc/?username=anuragsingh010&label=Profile%20Views&color=0e75b6&style=flat)
+<div align="center">
 
+# Hi 👋, I'm Anurag Singh
 
-# 👋 Hey, I'm Anurag Singh
+### Full-Stack Developer • Java • React • Node.js • MongoDB
 
-Full-stack developer focused on building practical, fast and clean web applications.  
-I work with Java, JavaScript, React, Node.js, and modern database systems.  
-I enjoy turning ideas into simple, usable tools that solve real problems.
-
----
-
-## 🔥 What I Do
-- Build full-stack web apps with React + Node.js  
-- Create REST APIs with Express  
-- Design databases (MySQL & MongoDB)  
-- Work on file tools, utilities, and productivity apps  
-- Explore cloud platforms (AWS & Azure certified)
-
----
-
-## 🛠 Tech Stack
-
-**Languages:**  
-Java, JavaScript, Python  
-
-**Frontend:**  
-HTML, CSS, React  
-
-**Backend:**  
-Node.js, Express  
-
-**Database:**  
-MySQL, MongoDB  
-
-**Tools & Platforms:**  
-Git, VS Code, Postman, IntelliJ, Vercel  
-
-**Cloud:**  
-AWS | Azure Fundamentals  
-
----
-
-## 🚀 Projects
-
-### 🔹 QuickPDF Studio  
-**Live:** https://quickpdf-studio.vercel.app/  
-
-A fast and minimal PDF toolkit built using HTML, CSS and JavaScript.  
-Everything runs **locally in your browser** — no uploads, no tracking.
-
-**Features**  
-- Compress PDFs without losing clarity  
-- Merge multiple PDFs  
-- JPG/PNG → PDF conversion  
-- Extract selected pages  
-- PDF → PNG images  
-- Dark mode  
-
-**Highlight:**  
-Private, fast, offline PDF tools designed for everyday work.
-
----
-
-### 🔹 Divine Pilgrimage Quest  
-Travel assistance app built with **React, Node.js, and MongoDB**.  
-Helps users plan trips, check routes, explore places and manage travel details.
-
----
-
-### 🔹 Hotel Management System  
-Java + MySQL desktop application for hotel operations — booking, billing, room status and admin controls.
-
----
-
-### 🔹 Quiz App  
-Lightweight quiz game made with HTML, CSS and JavaScript.  
-Clean UI and simple game logic.
-
----
-
-## 📈 GitHub Overview
+Building clean, scalable web applications with a focus on performance and user experience.
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragsingh010&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsingh010&layout=compact&theme=tokyonight" height="150" />
+<a href="https://portfolio-anurag-six.vercel.app">Portfolio</a> •
+<a href="https://www.linkedin.com/in/anurag-singh1">LinkedIn</a> •
+<a href="mailto:anuragsinghcse1@gmail.com">Email</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=anuragsingh010&label=Profile%20Views&style=flat-square"/>
+
+</div>
+
+---
+
+## About
+
+- 💻 Full-Stack Developer from India
+- ⚡ Building modern web applications with Java, React and Node.js
+- ☁ AWS Certified • Microsoft Azure Fundamentals
+- 🌱 Currently learning Spring Boot, Docker and System Design
+
+---
+
+## Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode,postman,aws,azure"/>
+
 </p>
 
 ---
 
-## 📬 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/anurag-singh1  
-- **Email:** anuragsinghcse1@gmail.com  
+## Featured Projects
 
+### 📄 QuickPDF Studio
+
+A browser-based PDF toolkit focused on privacy and speed.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 https://quickpdf-studio.vercel.app/
+
+---
+
+### 📝 Smart Notepad
+
+Modern note-taking application with Local Storage and dark mode.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+### 🛕 Divine Pilgrimage Quest
+
+Travel planning platform built using React, Node.js and MongoDB.
+
+**Tech:** React • Node.js • MongoDB
+
+---
+
+### 🏨 Hotel Management System
+
+Desktop application for hotel management using Java and MySQL.
+
+**Tech:** Java • MySQL
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anuragsingh010&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsingh010&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## Contact
+
+- 🌐 Portfolio: https://portfolio-anurag-six.vercel.app
+- 💼 LinkedIn: https://linkedin.com/in/anurag-singh1
+- 📧 anuragsinghcse1@gmail.com
